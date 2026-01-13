@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+PyPDF2
+nltk
+pandas
+scikit-learn
+openpyxl
+supabase
+bcrypt
